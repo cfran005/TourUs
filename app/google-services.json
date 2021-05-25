@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82046009457",
+    "project_id": "tourus-9ef8d",
+    "storage_bucket": "tourus-9ef8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82046009457:android:7ccbce7f49c3748f835bd0",
+        "android_client_info": {
+          "package_name": "com.example.tourus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82046009457-2aicp4ehphnl2oqlpcukfcl38425t1t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMvcmDim6wIMARS60Vtk8R6tjyz2KFhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82046009457-2aicp4ehphnl2oqlpcukfcl38425t1t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

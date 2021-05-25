@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TourUs</string>
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+    <string name="email">Email</string>
+    <string name="price">Price</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="bio">Bio</string>
+    <string name="venue_artist_pic">Venue/Artist Pic</string>
+    <string name="save">Save</string>
+    <string name="artist">Artist</string>
+    <string name="venue">Venue</string>
+    <string name="viewName">Name</string>
+    <string name="viewGenre">Genre</string>
+    <string name="viewPrice">Price</string>
+    <string name="viewEmail">Email</string>
+    <string name="viewBio">Bio</string>
+    <string name="sign_in">Sign In</string>
+    <string name="need_an_account_sign_up_here">Need an account? Sign up here</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here</string>
+    <string name="password">Password</string>
+    <string name="profilepic">ProfilePic</string>
+    <string name="welcome_what_would_you_like_to_browse">Welcome! What would you like to browse?</string>
+    <string name="log_out">Log Out</string>
+    <string name="artists">Artists</string>
+    <string name="venues">Venues</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logo" />
+</resources>
